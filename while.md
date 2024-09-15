@@ -140,7 +140,7 @@ print("Nombre de voyelles :", compteur)
 
 ## Conclusion
 
-La boucle `while` est un outil puissant en Python qui permet d'exécuter des instructions de manière répétée tant qu'une condition est vraie. En utilisant des instructions comme `break` et `continue`, vous pouvez contrôler le flux de votre programme de manière flexible. Les exercices pratiques vous aideront à renforcer votre compréhension et votre maîtrise de cette structure de contrôle. Si vous avez des questions ou besoin de précisions, n'hésitez pas à demander !
+La boucle `while` est un outil puissant en Python qui permet d'exécuter des instructions de manière répétée tant qu'une condition est vraie. En utilisant des instructions comme `break` et `continue`, vous pouvez contrôler le flux de votre programme de manière flexible.
 
 Citations:
 [1] https://www.data-bird.co/blog/boucle-while-python
